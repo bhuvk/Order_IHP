@@ -13,7 +13,7 @@ Order IHP is a Flutter application designed to simplify the process of placing o
 ## Screenshots:
 
 ![Intro Screen](screenshots/intro_screen.png)
-![Product Catalog](screenshots/product_catalog.png)
+![Product Catalog](screenshots/product_catalogue.png)
 ![Order Summary](screenshots/order_summary.png)
 
 ## Usage:
