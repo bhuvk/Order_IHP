@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796629050548",
+    "project_id": "order-ihp",
+    "storage_bucket": "order-ihp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796629050548:android:1408851e96b963d8a423e1",
+        "android_client_info": {
+          "package_name": "com.example.order_ihp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SNDSrFae1KsFXT4zU-l8J3t9hG1lBLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
